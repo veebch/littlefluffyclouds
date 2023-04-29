@@ -8,6 +8,8 @@ Supporting materials for making a happy cloud (formally known as Cheeky Sue), sh
 
 It's done using some (really thin) nichrome wire and a battery. When power is applied the wire acts as a resistor, the resistance generates heat and the wire will then easily cut the polystyrene.
 
+The shape is 4 simple arcs. Once it is cut, make a template for the face using the svg file in this repository and dab some paint through. 
+
 ## Template Image
 
 Here is is as a vector file.
