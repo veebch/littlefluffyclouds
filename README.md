@@ -2,11 +2,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_e_e_b/)
 
-Supporting materials for making a happy cloud (formally known as Cheeky Sue), show in the video below.
-
 # little fluffy clouds
 
-Some resources for making something we did in a youtube video
+Supporting materials for making a happy cloud (formally known as Cheeky Sue), shown in the video below. It'sdone using some (really thin) nichrome wire and a battery. When power is applied the wire acts as a resistor, the resistance generates heat and the wire will then easily cut the polystyrene.
 
 ## Template Image
 
