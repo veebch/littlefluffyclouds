@@ -11,6 +11,8 @@ Some resources for making something we did in a youtube video
 
 ## Video
 
+[![Video](https://img.youtube.com/vi/47cM1lvHEzI/maxresdefault.jpg)](https://www.youtube.com/watch?v=47cM1lvHEzI)
+
 ## Disclaimer
 
 The mechanism for heating up the wire needs to be done properly. Buy a commercially available device or research on how to do it safely. 
