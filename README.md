@@ -10,6 +10,8 @@ Some resources for making something we did in a youtube video
 
 ## Template Image
 
+Here is is as a vector file.
+
 ![Happy Cloud](https://github.com/veebch/littlefluffyclouds/blob/main/cheekysue.svg?raw=true)
 
 ## Video
