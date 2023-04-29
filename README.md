@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_e_e_b/)
 
+Supporting materials for making a happy cloud (formally known as Cheeky Sue), show in the video below.
 
 # little fluffy clouds
 
